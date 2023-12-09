@@ -176,11 +176,11 @@ i#burguer:hover {
 
 @keyframes animacao {
     from {
-        background-image: url(Imagens/Didi\ suja2.jpeg);
+        background-image: url(Imagens/ Didisuja2.jpeg);
     }
 
     to {
-        background-image: url(Imagens/Fotos\ Didi4.jpeg);
+        background-image: url(Imagens/ FotosDidi4.jpeg);
     }
 }
 
