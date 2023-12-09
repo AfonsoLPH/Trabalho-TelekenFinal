@@ -176,11 +176,11 @@ i#burguer:hover {
 
 @keyframes animacao {
     from {
-        background-image: url(../Imagens/Didi\ suja2.jpeg);
+        background-image: url(Imagens/Didi\ suja2.jpeg);
     }
 
     to {
-        background-image: url(../Imagens/Fotos\ Didi4.jpeg);
+        background-image: url(Imagens/Fotos\ Didi4.jpeg);
     }
 }
 
@@ -191,7 +191,7 @@ i#burguer:hover {
     display: grid;
     height: 100vw;
     width: 80vw;
-    background-image: url(../Imagens/Didi\ rindo.jpeg);
+    background-image: url(Imagens/Didi\ rindo.jpeg);
     background-repeat: no-repeat;
     background-size: contain;
     animation-name: animacao;
